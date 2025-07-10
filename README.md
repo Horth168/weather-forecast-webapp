@@ -25,7 +25,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Horth168/weather-forecast-webapp.git](https://github.com/Horth168/weather-forecast-webapp.git)
+    git clone https://github.com/Horth168/weather-forecast-webapp.git
     ```
 
 2.  **Navigate to the project directory:**
@@ -56,7 +56,7 @@ This project requires an API key from OpenWeatherMap to fetch weather data.
 Once the project is set up and the API key is configured:
 
 1.  Open the `index.html` file in your web browser.
-2.  The application will either ask for your location or show a default city's weather.
+2.  The application will either ask for your location or show the default city's weather.
 3.  Use the search bar to type in the name of a city you want to check.
 4.  Press Enter or click the search button.
 5.  The current weather and the 5-day forecast for the selected city will be displayed.
